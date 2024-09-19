@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/6092337f-9860-4162-848c-9e2362fd969b
+
 # Snake Game
 
 Welcome to the **Snake Game** repository! This classic game has been implemented in Python using Pygame. The goal is simple: navigate the snake to eat the food and grow longer while avoiding collisions with itself. Enjoy the nostalgic fun of this timeless game!
